@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T05:15:44.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" version="22.0.4" etag="LikOF9hUyz00-VeZBORh" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T05:21:03.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="bGoL4a8fBSKRkYbszDNV" version="22.0.4" type="github">
   <diagram name="Page-1" id="rKU2NpH1XYkNwCE2PpRc">
-    <mxGraphModel>
+    <mxGraphModel dx="833" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="93aIS1IpInJiAb3NqB5B-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93aIS1IpInJiAb3NqB5B-2" target="93aIS1IpInJiAb3NqB5B-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93aIS1IpInJiAb3NqB5B-2" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93aIS1IpInJiAb3NqB5B-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="93aIS1IpInJiAb3NqB5B-3" target="93aIS1IpInJiAb3NqB5B-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93aIS1IpInJiAb3NqB5B-3" value="LUAS LINGKARAN&lt;br&gt;PHI&lt;br&gt;D" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="200" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="93aIS1IpInJiAb3NqB5B-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93aIS1IpInJiAb3NqB5B-5" target="93aIS1IpInJiAb3NqB5B-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93aIS1IpInJiAb3NqB5B-5" value="LO=PHI*D" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="425" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="93aIS1IpInJiAb3NqB5B-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="93aIS1IpInJiAb3NqB5B-7" target="93aIS1IpInJiAb3NqB5B-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93aIS1IpInJiAb3NqB5B-7" value="LUAS LINGKARAN" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="415" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="93aIS1IpInJiAb3NqB5B-10" value="END" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="620" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
